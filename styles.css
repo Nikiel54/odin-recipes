@@ -19,9 +19,11 @@ body {
     text-align: center;
 }
 
+.flex_container {
+    display: flex;
+}
+
 /* Lasagna Page */
-
-
 .lasagna-img {
     width: 350px;
     height: auto;
