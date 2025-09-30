@@ -1,11 +1,30 @@
-.lasagna-description {
-    color: rgb(84, 34, 130);
-}
-
-.test {
-    color: darkslateblue;
-}
-
 * {
-    outline: 2px solid red;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+body {
+    background-color: blanchedalmond
+}
+
+.hdr {
+    color: #785d3d;
+    margin: 10px;
+}
+
+.pg-title {
+    text-align: center;
+}
+
+/* Lasagna Page */
+
+
+.lasagna-img {
+    width: 350px;
+    height: auto;
+    margin: auto;
+    display: block;
 }
